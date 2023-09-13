@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "@-ft/use-persist",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "React usePersist hook",
   "types": "./index.d.ts",
   "main": "./index.js",
